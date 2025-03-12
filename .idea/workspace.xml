@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe81c303-40bb-4c1a-a215-67252bba01c3" name="Changes" comment="">
+    <list default="true" id="fe81c303-40bb-4c1a-a215-67252bba01c3" name="Changes" comment="Primeito Commit">
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
@@ -34,37 +34,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Coletar Imagens da Página Principal.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Comparar Imagens da Página com as Referências.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC01: Login com nome de usuário válido.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC02: Login com senha inválida.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC03: Login com campos vazios.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC04: Adicionar Produto ao Carrinho.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC04: Adicionar a um item ao Carrinho.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC05: Adicionar segundo item cart.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC05: Automatizar Acesso aos Titulos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC06: Adicionar terceiro item cart.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC07: Remover Produto do Carrinho.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC08: Filtrar Produtos por Nome (A a Z).executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC11: Verificar Exibição de Imagens dos Produtos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC12: Verificar Exibição de Imagens dos Produtos carregam corretamente.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC13: Coletar as imagens dos produtos para referencia de validação.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC13: Verificar Exibição de Imagens dos Produtos.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC14: Comparar imagens atuais com as referencias.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TC14:.executor&quot;: &quot;Run&quot;,
-    &quot;Python.[default] TC04: Adicionar Produto ao Carrinho.executor&quot;: &quot;Run&quot;,
-    &quot;Python.[default] TC14: Comparar imagens atuais com as referencias.executor&quot;: &quot;Run&quot;,
-    &quot;Python.primeiro_teste.robot.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.testesolução.robot.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Coletar Imagens da Página Principal.executor": "Run",
+    "Python.Comparar Imagens da Página com as Referências.executor": "Run",
+    "Python.TC01: Login com nome de usuário válido.executor": "Run",
+    "Python.TC02: Login com senha inválida.executor": "Run",
+    "Python.TC03: Login com campos vazios.executor": "Run",
+    "Python.TC04: Adicionar Produto ao Carrinho.executor": "Run",
+    "Python.TC04: Adicionar a um item ao Carrinho.executor": "Run",
+    "Python.TC05: Adicionar segundo item cart.executor": "Run",
+    "Python.TC05: Automatizar Acesso aos Titulos.executor": "Run",
+    "Python.TC06: Adicionar terceiro item cart.executor": "Run",
+    "Python.TC07: Remover Produto do Carrinho.executor": "Run",
+    "Python.TC08: Filtrar Produtos por Nome (A a Z).executor": "Run",
+    "Python.TC11: Verificar Exibição de Imagens dos Produtos.executor": "Run",
+    "Python.TC12: Verificar Exibição de Imagens dos Produtos carregam corretamente.executor": "Run",
+    "Python.TC13: Coletar as imagens dos produtos para referencia de validação.executor": "Run",
+    "Python.TC13: Verificar Exibição de Imagens dos Produtos.executor": "Run",
+    "Python.TC14: Comparar imagens atuais com as referencias.executor": "Run",
+    "Python.TC14:.executor": "Run",
+    "Python.[default] TC04: Adicionar Produto ao Carrinho.executor": "Run",
+    "Python.[default] TC14: Comparar imagens atuais com as referencias.executor": "Run",
+    "Python.primeiro_teste.robot.executor": "Debug",
+    "Python.testesolução.robot.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "configurable.group.appearance"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.TC02: Login com senha inválida">
     <configuration name="TC01: Login com nome de usuário válido" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="robot" />
@@ -312,6 +312,19 @@
       <option name="presentableId" value="Default" />
       <updated>1737502067502</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeito Commit">
+      <option name="closed" value="true" />
+      <created>1741810250315</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741810250315</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeito Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeito Commit" />
   </component>
 </project>

@@ -1,0 +1,20 @@
+1737521717622	geckodriver	INFO	Listening on 127.0.0.1:61045
+1737521720699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61046" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IRVING~1\\AppData\\Local\\Temp\\rust_mozprofiler8wF7w"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1737521720971	Marionette	INFO	Marionette enabled
+1737521721084	Marionette	INFO	Listening on port 61055
+WebDriver BiDi listening on ws://127.0.0.1:61046
+Read port: 61055
+1737521721239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61046/devtools/browser/a7544826-6333-436a-8aee-2966c6825406
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript warning: https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js, line 2: Script terminated by timeout at:
+get@https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js:2:123438
+r/936/n/7429/value/<@https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js:2:56726
+
+1737522472522	Marionette	INFO	Stopped listening on port 61055
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

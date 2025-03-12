@@ -1,0 +1,16 @@
+1737520080202	geckodriver	INFO	Listening on 127.0.0.1:60479
+1737520083311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60480" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IRVING~1\\AppData\\Local\\Temp\\rust_mozprofileRqGfbe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1737520083614	Marionette	INFO	Marionette enabled
+1737520083760	Marionette	INFO	Listening on port 60487
+WebDriver BiDi listening on ws://127.0.0.1:60480
+Read port: 60487
+1737520083929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60480/devtools/browser/69924f75-3075-40be-854e-527a4c176cad
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+1737520503325	Marionette	INFO	Stopped listening on port 60487
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.2 (Python 3.12.0 on win32)" generated="2025-02-27T11:43:53.783770" rpa="false" schemaversion="5">
+<suite id="s1" name="Automação V1" source="C:\projeto\robot\Automação_V1.robot">
+<test id="s1-t1" name="TC02: Login com senha inválida" line="313">
+<kw name="Acesse o site Saucedemo">
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2025-02-27T11:43:54.453466" level="INFO">Opening browser 'chrome' to base url 'https://www.saucedemo.com/'.</msg>
+<arg>https://www.saucedemo.com/</arg>
+<arg>chrome</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="PASS" start="2025-02-27T11:43:54.453466" elapsed="1.800843"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="PASS" start="2025-02-27T11:43:56.254309" elapsed="0.035903"/>
+</kw>
+<status status="PASS" start="2025-02-27T11:43:54.452466" elapsed="1.837746"/>
+</kw>
+<kw name="Preencha o login inválido">
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2025-02-27T11:43:56.292207" level="INFO">Typing text 'standard' into text field 'id:user-name'.</msg>
+<arg>${input_name}</arg>
+<arg>standard</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2025-02-27T11:43:56.291210" elapsed="0.114693"/>
+</kw>
+<status status="PASS" start="2025-02-27T11:43:56.290212" elapsed="0.115691"/>
+</kw>
+<kw name="Preencha a senha inválida">
+<kw name="Input Text" owner="SeleniumLibrary">
+<msg time="2025-02-27T11:43:56.406901" level="INFO">Typing text 'secret_invalid' into text field 'id:password'.</msg>
+<arg>${input_password}</arg>
+<arg>secret_invalid</arg>
+<doc>Types the given ``text`` into the text field identified by ``locator``.</doc>
+<status status="PASS" start="2025-02-27T11:43:56.406901" elapsed="0.089762"/>
+</kw>
+<status status="PASS" start="2025-02-27T11:43:56.405903" elapsed="0.090760"/>
+</kw>
+<kw name="Click no botão login">
+<kw name="Click Element" owner="SeleniumLibrary">
+<msg time="2025-02-27T11:43:56.497657" level="INFO">Clicking element 'id:login-button'.</msg>
+<arg>${button_submit}</arg>
+<doc>Click the element identified by ``locator``.</doc>
+<status status="PASS" start="2025-02-27T11:43:56.497657" elapsed="0.075804"/>
+</kw>
+<status status="PASS" start="2025-02-27T11:43:56.496663" elapsed="0.076798"/>
+</kw>
+<kw name="Espere até a mensagem login inválido">
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2025-02-27T11:43:59.574711" level="INFO">Slept 3 seconds.</msg>
+<arg>3s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2025-02-27T11:43:56.574462" elapsed="3.000249"/>
+</kw>
+<kw name="Wait Until Page Contains" owner="SeleniumLibrary">
+<arg>Epic sadface</arg>
+<doc>Waits until ``text`` appears on the current page.</doc>
+<status status="PASS" start="2025-02-27T11:43:59.574711" elapsed="0.010024"/>
+</kw>
+<status status="PASS" start="2025-02-27T11:43:56.574462" elapsed="3.010273"/>
+</kw>
+<kw name="Fechar navegador">
+<kw name="Close Browser" owner="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="PASS" start="2025-02-27T11:43:59.584735" elapsed="2.363871"/>
+</kw>
+<status status="PASS" start="2025-02-27T11:43:59.584735" elapsed="2.363871"/>
+</kw>
+<status status="PASS" start="2025-02-27T11:43:54.451437" elapsed="7.497169"/>
+</test>
+<status status="PASS" start="2025-02-27T11:43:53.785765" elapsed="8.163679"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Automação V1" id="s1" pass="1" fail="0" skip="0">Automação V1</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>

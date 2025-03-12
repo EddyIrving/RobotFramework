@@ -1,0 +1,59 @@
+1737708805413	geckodriver	INFO	Listening on 127.0.0.1:51987
+1737708808500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51988" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\IRVING~1\\AppData\\Local\\Temp\\rust_mozprofilee6lrDG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1737708808786	Marionette	INFO	Marionette enabled
+1737708808904	Marionette	INFO	Listening on port 52006
+WebDriver BiDi listening on ws://127.0.0.1:51988
+Read port: 52006
+1737708809090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51988/devtools/browser/8ba3df9b-d8ad-4a35-9991-0ebd0d28c0ea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.saucedemo.com."
+JavaScript warning: https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js, line 2: Script terminated by timeout at:
+get@https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js:2:123427
+r/936/n/7429/value/<@https://www.saucedemo.com/static/js/2.84a5cbf3.chunk.js:2:56726
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC, line 183: Script terminated by timeout at:
+Fa.prototype.get@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:183:26
+Fa.prototype.get@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:183:99
+Ja@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:183:541
+Xc.prototype.evaluate@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:217:329
+Od@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:243:88
+Pd@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:243:227
+h.invoke@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:216:314
+Ja@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:183:668
+Xc.prototype.evaluate@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:217:329
+ae@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:245:234
+h.invoke@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:216:314
+Ja@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:183:668
+Xc.prototype.evaluate@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:217:329
+Qd@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:243:275
+h.invoke@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:216:314
+Ja@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:183:668
+Ia@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:183:428
+Id/<@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:240:496
+h.invoke@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:216:314
+gL/<@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:753:688
+Ft@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:508:281
+h.un@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:732:277
+h.tn/</<@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:730:31
+ul@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:384:151
+qm@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:392:434
+h.tn/<@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:730:17
+c@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:530:464
+Nv@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:531:282
+h.tn@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:730:3
+c@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:745:815
+Zn@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:407:60
+Yn.prototype.flush@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:410:373
+Yn.prototype.push@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:408:214
+Rn@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:404:1543
+uK/<@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:746:187
+h.Jl/<@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:685:126
+h.Jl/c/<@https://www.googletagmanager.com/gtag/js?id=G-B9CY1C9VBC:684:418
+
+1737709541934	Marionette	INFO	Stopped listening on port 52006
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
